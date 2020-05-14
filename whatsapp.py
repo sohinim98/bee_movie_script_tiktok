@@ -6,7 +6,7 @@ client = Client()
 # this is the Twilio sandbox testing number
 from_whatsapp_number='whatsapp:+14155238886'
 # replace this number with your own WhatsApp Messaging number
-to_whatsapp_number='whatsapp:+12268993426'
+to_whatsapp_number='whatsapp:{friend's number}'
 
 with open('bee_movie_script.txt','r') as bee_movie:
     for line in bee_movie:
