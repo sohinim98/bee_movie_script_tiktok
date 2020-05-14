@@ -1,5 +1,5 @@
 # bee_movie_script_tiktok
-A script to send the entire bee movie script one word at a time
+A script to send the entire bee movie script one word at a time  
 Used the twilio API.
 
 Steps -
